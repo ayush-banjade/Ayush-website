@@ -2062,9 +2062,10 @@
  }
  
  @media (min-width:992px) {
-	 .col-md-5, .col-md-7 {
+	 .col-md-5, .col-md-7{
 		 float: left
-	 }
+	 } 
+	
  
 	 .col-md-5 {
 		 width: 41.66666667%
@@ -2072,6 +2073,7 @@
 	 .col-md-7 {
 		 width: 58.33333333%
 	 }
+	}
  
 	 @media (min-width:992px) {
 		 .main-section {
