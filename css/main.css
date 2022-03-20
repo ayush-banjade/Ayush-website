@@ -2061,7 +2061,7 @@
 	 text-align: justify;
  }
  
- /**@media (min-width:992px) {
+ @media (min-width:992px) {
 	 .col-md-5, .col-md-7 {
 		 float: left
 	 }
@@ -2083,7 +2083,7 @@
 		 .main-section {
 			 padding: 40px 0
 		 }
-	 }*/
+	 }
  
  /** 
   * ===================================================================
